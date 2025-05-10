@@ -1,0 +1,14 @@
+1. Criar uma matriz 3x3 e imprimir seus elementos.
+2. Calcular a soma de todos os números de uma matriz.
+3. Determinar o maior número dentro da matriz.
+4. Multiplicar duas matrizes 2x2.
+5. Contar quantos números pares e ímpares há na matriz.
+6. Gerar uma matriz 3x3 com números aleatórios de 1 a 100.
+7. Criar um sistema de mercado com as seguintes regras
+    A. Crie um cadastro de produtos onde cada produto deverá ter nome e valor
+    B. Crie uma listagem de produtos cadastrados
+    C. Crie um carrinho de compras informando o nome do item e a quantidade desejada onde o item deve ser encontrado na list pelo nome e com a posição (index) deve ser adicionado ao carrinho
+    C. Mostre o carrinho com total de compras realizadas.
+    Observações: 
+        funções não devem ser usadas.
+        você pode usar um List dynamic

@@ -1,0 +1,5 @@
+Para criar o arquivo Gitignore:
+    1ª inicie um repositório local
+    2ª Crie um arquivo com nome '.gitignore'
+        - Dentro deste arquivo você pode informar quais arquivos ou pastas devem ser ignorados para commits
+        - Os arquivos ou diretórios que estiverem listados no .gitignore serão ignorados pelo Git

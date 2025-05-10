@@ -1,0 +1,10 @@
+Contar de 100 a 50 (ordem decrescente)
+Exibir números ímpares de 1 a 30
+Encontrar o maior número entre 5 números digitados - Peça ao usuário 5 números e determine o maior deles.
+Somar apenas os números pares de 1 a 50 
+Contar quantos números entre 1 e 100 são divisíveis por 4
+Multiplicar todos os números de 1 a 10
+Descobrir se um número digitado pelo usuário é primo
+Exibir os números que terminam em 5 entre 5 e 100
+Contar quantos números o usuário digitou antes de inserir -1 Peça números ao usuário até que ele digite -1. Depois, exiba quantos números foram digitados.
+Exibir os dígitos de um número separado (ex: 123 → 1, 2, 3) Peça um número ao usuário e exiba seus dígitos separadamente.

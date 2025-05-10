@@ -1,0 +1,20 @@
+https ou ssh???
+    a principal diferença entre https e ssh é a autenticação
+    https exige senha e um token configurado para poder interagir com repositórios
+    ssh trabalha com uma chave de segurança que faz a autenticação de forma automatizada
+    reconhecendo o computador onde a chave está presente
+
+    basicamente geramos uma chave ssh e deixamos ela salva no computador e no github
+    em cada interação com o repositório remoto a chave local é comparada com a chave remota
+
+Quando usar https???
+    > quando vc tem preguiça e nao quer configurar ssh
+    > quando seu ambiente tem restrições de firewall
+    > se precisa apenas baixar o repositório e não fará commits com frequência
+
+Quando usar o ssh (quase sempre)
+    > se deseja um fluxo de trabalho facilitado sem digitar senhas e tokens a cada commit
+    > se trabalha frequentemente com repositórios fazendo pull, commit, clone e etc
+    > se precisa de maior segurança na comunicação dos repositórios
+
+    ssh sempre será a melhor opção

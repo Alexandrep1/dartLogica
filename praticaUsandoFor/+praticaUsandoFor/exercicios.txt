@@ -1,0 +1,36 @@
+Crie uma lista com 10 números inteiros e use um for para exibir cada número no terminal.
+Percorra uma lista de 10 números inteiros e exiba apenas os números pares.
+Some todos os números de uma lista usando um for e exiba o resultado.
+Use um while para percorrer uma lista e exibir seus elementos um por um.
+Use um do while para percorrer uma lista de 5 nomes e exibi-los no terminal.
+Ordene uma lista de números aleatórios em ordem crescente e exiba no terminal.
+Multiplique todos os números de uma lista por 2 e exiba a nova lista.
+Verifique se um determinado número existe em uma lista, usando um while.
+Remova todos os elementos de uma lista usando um do while. ***
+Peça ao usuário 5 números e adicione-os a uma lista, depois exiba os números digitados.
+
+
+
+Crie um Map com nomes de produtos como chave e preços como valor. Use um for para exibir os produtos e seus preços.
+Percorra um Map com nomes e idades e exiba apenas os maiores de idade.
+Some todos os valores de um Map onde as chaves são produtos e os valores são preços.
+Crie um Map de alunos e notas e exiba apenas os alunos com nota acima de 7.
+Encontre um nome específico dentro de um Map e exiba sua informação.
+Multiplique todos os valores numéricos de um Map por 2 e exiba o novo Map.
+Remova todos os itens de um Map usando um do while.
+Crie um Map onde as chaves são cidades e os valores são suas populações. Exiba as cidades com mais de 100.000 habitantes.
+Conte quantos elementos existem em um Map sem usar .length.
+Inverta as chaves e valores de um Map e exiba o novo Map.
+
+
+
+Crie um Set com 5 números inteiros e use um for para exibir os números.
+Verifique se um número específico existe em um Set, usando um while.
+Remova todos os elementos de um Set usando um do while.
+Crie dois Set de números e exiba a interseção entre eles usando um for.
+Some todos os valores dentro de um Set usando um while.
+Multiplique todos os valores de um Set por 3 e exiba o novo conjunto.
+Conte quantos elementos existem em um Set sem usar .length.
+Crie um Set de palavras e remova uma palavra específica usando um do while.
+Converta um Set em uma List e ordene os valores.
+Verifique quais elementos de um Set pertencem a uma determinada lista.

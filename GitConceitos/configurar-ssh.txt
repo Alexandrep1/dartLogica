@@ -1,0 +1,19 @@
+configurar chave ssh:
+    > verificar se existe alguma chave = ls ~/.ssh/id_rsa.pub
+    > gerar uma nova chave ssh = ssh-keygen -t rsa -b 4096 -C "ogustavopetry@gmail.com"
+    > depois de gerar a chave vamos fazer os procedimentos de configuração
+
+    > iniciar o agente ssh = Start-Service ssh-agent
+    > adicionar a chave ao agente = ssh-add $env :USERPROFILE\.ssh\id_rsa | (cd ~ para achar o usuário)
+    > adicionar a chave no github
+        >copiar a chave = cat .ssh/id_rsa.pub
+
+Usando bash:
+    > verificar se existe alguma chave = ls ~/.ssh/id_rsa.pub
+    > gerar uma nova chave ssh = ssh-keygen -t rsa -b 4096 -C "ogustavopetry@gmail.com"
+    > depois de gerar a chave vamos fazer os procedimentos de configuração
+
+    > iniciar o agente ssh = eval "$(ssh-agent -s)"
+    > adicionar a chave ao agente = ssh-add ~/.ssh/id_rsa (cd ~ para achar o usuário)
+    > adicionar a chave no github
+    >copiar a chave = cat .ssh/id_rsa.pub

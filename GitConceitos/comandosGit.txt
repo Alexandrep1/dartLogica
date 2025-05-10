@@ -1,0 +1,22 @@
+//clonar repositório:
+- git clone <url_repositorio>     //clona um projeto criando a pasta com o mesmo nome do repositório remoto
+- git clone <url_repositorio> nome_pasta     //clona um repósitorio dentro da pasta "nome_pasta"
+- git clone <url_repositorio> .       //clona um repositório diretamente dentro da pasta que o cmd se encontra, sem criar a pasta com o nome do repositório remoto
+
+//navegar entre pastas:
+- cd <nome_pasta>     //entra em um diretório
+- cd ../      //volta uma ou mais pastas -> ../ (uma pasta) -> ../../ (duas pastas) e assim por diante 
+- cd ~        // vai para a pasta principal do usuário
+
+//comandos linux:
+- ls      //lista diretórios e arquivos que estão presentes no caminho atual
+- ls -arquivos    // lista itens ocultos também
+
+//iniciar um repositório local:
+- git init
+
+//conectar repositório local com remoto:
+- git remote add origin <url_repositorio>
+
+//set origin master:
+- git push --set --upstream origin master

@@ -1,0 +1,20 @@
+Use um foreach para iterar sobre um list de números e exiba cada um deles.
+Calcule a soma dos elementos de um list usando foreach.
+Use foreach para transformar um list de strings em letras maiúsculas.
+Crie um programa que multiplica cada número em um list por 2 e exiba os resultados.
+Exiba todos os elementos de uma lista com seus índices correspondentes.
+Crie um programa que filtra números pares em um list usando foreach.
+Use foreach para contar quantas palavras de um list têm mais de 5 letras.
+Itere sobre uma lista de objetos e exiba uma propriedade específica de cada objeto.
+Crie um programa que soma apenas os números positivos de um list.
+Transforme uma lista de números entre 0 e 9 retornando as letras correspondentes no alfabeto de A a J
+
+
+################# DESAFIO ##########################
+
+Desafio: Filtrando e Transformando Produtos em Dart
+Vamos criar um array de produtos e seguir os passos abaixo:
+
+Exibir os produtos originais usando forEach().
+Usar map() para criar uma nova lista, onde o preço aumenta em 10% apenas para os produtos que têm estoque maior que 0.
+Exibir a nova lista de produtos com forEach().
