@@ -30,3 +30,9 @@ class PagamentoAlto extends Pagamento {
     metodoPagamento(valor);
   }
 }
+
+void main(List<String> args) {
+  
+
+  
+}
